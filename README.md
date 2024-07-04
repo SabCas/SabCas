@@ -19,7 +19,7 @@ In addition to my focus on AI, I have a broad knowledge of engineering, specific
 - Tools: Git, Docker, Jupyter Notebooks, ROS2, Gymnasium
 - Engineering Knowledge: System modeling, signal processing, automation, robotics, mechanical design, dynamics, fluid dynamics
 
-- 🔭 I’m currently working on this page.
+- 🔭  Read more from me  - [Personal Blog](https://sabcas.github.io/).
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
