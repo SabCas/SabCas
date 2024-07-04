@@ -34,7 +34,7 @@ In addition to my focus on AI, I have a broad knowledge of engineering, specific
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SabCas/SabCas/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/SabCas/SabCas/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
