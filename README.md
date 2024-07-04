@@ -1,7 +1,7 @@
 
-<h1 align="left">![3d-gif-transparent-20](https://github.com/SabCas/SabCas/assets/110026351/f9975c40-a18a-412f-98e3-def43fc08adf)
 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=false&vCenter=true&width=750&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sabrina+Caspary!;" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=off&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 
 ### Hi there 👋Welcome to my GitHub profile! 
