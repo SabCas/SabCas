@@ -1,11 +1,12 @@
 
 
+
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=off&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=off&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sabrina+Caspary!;" />
 </h1>
 
 ### Hi there 👋Welcome to my GitHub profile! 
-**`Artificial Intelligence Master-Student @ University Stuttgart`** 
+**```Artificial Intelligence Master-Student @ University Stuttgart```** 
 
 I'm Sabrina Caspary, a passionate and dedicated student pursuing a Master's degree in Artificial Intelligence at the University of Stuttgart. My academic journey has equipped me with a solid foundation in various facets of AI, with a particular interest in:
 
