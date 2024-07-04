@@ -23,7 +23,7 @@ In addition to my focus on AI, I have a broad knowledge of engineering, specific
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/sabrina caspary](https://www.linkedin.com/in/sabrina-caspary-62746b273/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabrina caspary" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/sabrina caspary](https://www.linkedin.com/in/sabrina-caspary-62746b273/)](https://www.linkedin.com/in/sabrina-caspary-62746b273/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabrina caspary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
