@@ -19,7 +19,7 @@ In addition to my focus on AI, I have a broad knowledge of engineering, specific
 - Programming Languages: Python, C++
 - Frameworks and Libraries: TensorFlow, PyTorch, OpenCV, Scikit-learn, NumPy, Pandas
 - Tools: Git, Docker, Jupyter Notebooks, ROS2, Gymnasium
-- Engineering Knowledge: System modeling, signal processing, automation, robotics, mechanical design, dynamics, fluid dynamics
+- Engineering Knowledge: System modeling, signal processing, automation, robotics, mechanical design, dynamics
 
 - 🔭  Read more from me  - [Personal Blog](https://sabcas.github.io/).
 
